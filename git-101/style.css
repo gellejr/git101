@@ -1,14 +1,21 @@
    body {
    	margin: 0;
    	font-family: Helvetica;
+      background-color:  #D23333;
    }
+
+
+  h1 {
+   color: white;
+  }
+
 
    #logo {
    	border-radius: 50%;
    	height: 80px;
    	width: 80px;
    }
-
+ 
    .container {
    	display: flex;
    	align-items: center;
